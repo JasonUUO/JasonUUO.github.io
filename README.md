@@ -6,7 +6,7 @@ Welcome to my portfolio. I am a graduate Bioinformatician with interests in data
 
 #### [ICU Classification Task](https://github.com/JasonUUO/Classification-of-ICU-data) 
 
-#### [PubMed Webscracper](https://github.com/JasonUUO/Pubmed_Rabies_Webscraper)
+#### [PubMed Webscraper](https://github.com/JasonUUO/Pubmed_Rabies_Webscraper)
 
 #### [Unsupervised Learning in R and Python](https://github.com/JasonUUO/Unsupervised_learning_R_and_Python)
 
